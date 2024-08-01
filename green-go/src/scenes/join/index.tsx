@@ -34,8 +34,7 @@ const Join = ({ setSelectedPage }: Props) => {
                   }}
                 >
                   <HText>
-                    MILLIONS OF HAPPY MEMBERS GOING{"  "}
-                    GREEN
+                    HUNDREDS OF HAPPY MEMBERS GOING GREEN
                   </HText>
                 </motion.div>
               </div>

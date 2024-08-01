@@ -64,10 +64,7 @@ const Benefits = ({ setSelectedPage }: Props) => {
           }}
         >
           <HText>MORE THAN JUST A COMMUNITY</HText>
-          <p className='my-5 text-base'>
-            Facere obcaecati eligendi similique voluptatum laborum nisi nostrum
-            totam fugiat aspernatur, officiis libero quaerat?
-          </p>
+    
         </motion.div>
 
         <motion.div

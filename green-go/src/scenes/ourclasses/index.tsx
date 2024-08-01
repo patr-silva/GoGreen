@@ -9,7 +9,6 @@ import image3 from "@/assets/image3.jpg";
 import image4 from "@/assets/image4.jpg";
 import image5 from "@/assets/image5.jpg";
 
-
 const classes: Array<ClassType> = [
   {
     name: "Pottery Classes",
@@ -32,7 +31,7 @@ const classes: Array<ClassType> = [
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
     image: image5,
-  }
+  },
 ];
 
 type Props = {
@@ -41,7 +40,7 @@ type Props = {
 
 const OurClasses = ({ setSelectedPage }: Props) => {
   return (
-    <section className='w-full bg-white pt-28 pb-40' id="ourclasses">
+    <section className='w-full bg-white pb-40 pt-28' id='ourclasses'>
       <motion.div
         onViewportEnter={() => setSelectedPage(SelectedPage.OurClasses)}
       >
@@ -58,12 +57,9 @@ const OurClasses = ({ setSelectedPage }: Props) => {
         >
           <div className='md:w-3/5'>
             <HText>OUR CLASSES</HText>
-            <p className='pt-5'>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            </p>
           </div>
         </motion.div>
-        <div className='mt-10 h-[353px] w-full overflow-x-auto overflow-y-hidden scrollbar-thin scrollbar-thumb-gray-400 scrollbar-track-gray-200 scrollbar-thumb-rounded-full scrollbar-track-rounded-full'>
+        <div className='mt-10 h-[353px] w-full overflow-x-auto overflow-y-hidden scrollbar-custom scrollbar-track-gray-200 scrollbar-thumb-gray-400 scrollbar-track-rounded-full scrollbar-thumb-rounded-full'>
           <ul className='whitespace-nowrap'>
             {classes.map((item: ClassType, index) => (
               <Class
