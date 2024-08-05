@@ -4,10 +4,10 @@
 >
 
 <div>
-<img width="440" alt="Home" src="https://github.com/user-attachments/assets/d1e3ec72-230f-47b7-84fd-cd933dbafb79">
-<img width="440" alt="About us" src="https://github.com/user-attachments/assets/f5d7ab65-4fd4-4853-81a1-0880d9abeb39">
-<img width="440" alt="Join us" src="https://github.com/user-attachments/assets/4ca6aac7-9517-4561-bd53-1131b2b0e307">
-<img width="440" alt="Homepage" src="https://github.com/user-attachments/assets/cbde217c-80da-4cda-ad92-3edaf54dc485">
+<img width="440" alt="Home" src="https://github.com/user-attachments/assets/daab6801-170e-4471-8e62-942bceebc31c">
+<img width="440" alt="About us" src="https://github.com/user-attachments/assets/ede459d3-ffb8-4d45-a7aa-246b720b2180">
+<img width="440" alt="Join us" src="https://github.com/user-attachments/assets/707ff654-2964-489f-93ed-fb6c954d68ab">
+<img width="440" alt="Homepage" src="https://github.com/user-attachments/assets/9a4cbb45-77a0-42e5-a856-764c87cc358a">
 </div>
 
 
