@@ -1,6 +1,7 @@
-<h1 align="center">Welcome to GoGreen 👋</h1>
+<h1 align="center">Welcome to GoGreen 🌳</h1>
 
-> Website concept for a eco-friendly company.
+> 
+This is a simple concept website for an eco-friendly company, created using React, TypeScript and TailwindCSS. This website primarily serves as an informational page, providing visitors with details about the company. 
 >
 
 <div>
@@ -10,17 +11,19 @@
 <img width="440" alt="Homepage" src="https://github.com/user-attachments/assets/9a4cbb45-77a0-42e5-a856-764c87cc358a">
 </div>
 
+## Installation and Setup
 
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="#" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  </a>
-</p>
+#### Clone the repository
+```sh
+git clone https://github.com/patr-silva/GoGreen.git
+```
 
+#### Install dependencies
+```sh
+npm install
+```
 
-## Install
-
+#### Start the project
 ```sh
 npm run dev
 ```
@@ -29,12 +32,3 @@ npm run dev
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
 
-
-## Author
-
-👤 **Patricia Silva**
-
-* LinkedIn: [@patr-silva](https://linkedin.com/in/patr-silva)
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
