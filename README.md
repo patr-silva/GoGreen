@@ -1,17 +1,32 @@
 <div align="center">
-
 <h1 align="center">Go Green 🌳</h1>
-
-  <p align="center">
-React-based eco-friendly company website with TypeScript, Tailwind CSS, and Framer Motion for a visually engaging and informative user experience. </p>
+<p align="center">
+React-based eco-friendly company website with TypeScript, Tailwind CSS, and Framer Motion for a visually engaging and informative user experience.
+</p>
 </div>
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+# Table of Contents
 
-This project is a React-based website showcasing an eco-friendly company, built with TypeScript, Tailwind CSS, and Framer Motion. My goal with this project was to practice my skills using modern web development technologies. By leveraging component-based architecture, TypeScript for type safety, Tailwind CSS for rapid styling, and Framer Motion for dynamic interactions, I developed a website effectively communicating the company's mission and activities.
+1. [Introduction](#introduction)
+    * [About the project](#about)
+    * [Goals and Objectives](#goals)
+    * [Built with](#built)
+2. [Installation](#installation)
+   * [Installation Steps](#installation)
+3. [Screenshots](#screenshots)
 
-### Built With
+<h1 id="introduction">Introduction</h1>
+<h2 id="about">About the project</h2>
+
+This React-based eco-friendly company website is crafted using TypeScript, Tailwind CSS, and Framer Motion to deliver a visually engaging and informative user experience. 
+
+The website is designed to showcase the company's commitment to sustainability, with a clean and modern interface that reflects its eco-friendly values.
+
+<h2 id="goals">Goals and objectives</h2>
+
+The development of this project allowed me to deepen my expertise in modern web technologies. By adopting a component-based architecture with React and TypeScript, I ensured robust type safety and maintainable code. Tailwind CSS enabled rapid and consistent styling across the site, while Framer Motion brought the content to life with smooth, dynamic animations and interactions. The primary objective was to create a website that effectively communicates the company's mission and values, while also providing an intuitive and enjoyable user experience.
+
+<h2 id="built">Built with</h2>
 
 *  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
 *  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
@@ -20,9 +35,8 @@ This project is a React-based website showcasing an eco-friendly company, built 
 *  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 *  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
 
-<!-- GETTING STARTED -->
-
-### Installation
+<h1 id="installation">Installation</h1>
+<h2 id="installation">Installation Steps</h2>
 
 1. Clone the repository
    ```sh
@@ -36,11 +50,8 @@ This project is a React-based website showcasing an eco-friendly company, built 
       ```sh
    npm run dev
    ```
-<p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
-<!-- USAGE EXAMPLES -->
-## Screenshots
-
+<h1 id="screenshots">Screenshots</h1>
 <div>
 <img width="440" alt="Home" src="https://github.com/user-attachments/assets/daab6801-170e-4471-8e62-942bceebc31c">
 <img width="440" alt="About us" src="https://github.com/user-attachments/assets/ede459d3-ffb8-4d45-a7aa-246b720b2180">
